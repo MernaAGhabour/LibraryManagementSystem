@@ -19,7 +19,7 @@ docker-compose up --build
 This command will build and start the necessary containers for the application, including the PostgreSQL database.
 
 Access the Application:
-After the containers are up and running, you can access the application by opening a web browser and navigating to http://localhost:3000 or using postman.
+After the containers are up and running, you can access the application by opening a web browser and navigating to http://localhost:3000 or using postman using postman with request URL http://localhost:3000.
 
 API Endpoints:
 The application exposes various API endpoints for managing books, borrowers, and borrowing processes. You can refer to the API documentation to interact with these endpoints.  https://drive.google.com/file/d/1DBKMAjB3iqTQAbDoe87j3-8GiA2vPMd_/view?usp=sharing
